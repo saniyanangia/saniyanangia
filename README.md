@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I am a student currently working on exploring new projects to build my skillset. This profile reflects a small part of my journey thus far, showcasing some of my documented work. <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saniyanangia&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saniyanangia&hide_progress=true&langs_count=20)
