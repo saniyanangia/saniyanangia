@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my profile! This reflects a small part of my journey thus far, showcasing some of my documented work as I explore new projects and build my skillset. <br />
+Welcome to my profile! This reflects a small part of my journey thus far, showcasing some of my documented work as I explore new projects and build my skillset. <br /><br />
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saniyanangia&hide_progress=true&langs_count=20)
 -->
 
+##### Top Languages:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saniyanangia/language-stats/main/top-languages-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saniyanangia/language-stats/main/top-languages-light.svg">
