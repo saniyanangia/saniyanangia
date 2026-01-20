@@ -21,4 +21,8 @@ Welcome to my profile! This reflects a small part of my journey thus far, showca
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saniyanangia&hide_progress=true&langs_count=20)
 -->
 
-![Top Languages](https://raw.githubusercontent.com/saniyanangia/language-stats/main/top-languages.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saniyanangia/language-stats/main/top-languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saniyanangia/language-stats/main/top-languages-light.svg">
+  <img alt="Top Languages" src="https://raw.githubusercontent.com/saniyanangia/language-stats/main/top-languages-light.svg">
+</picture>
