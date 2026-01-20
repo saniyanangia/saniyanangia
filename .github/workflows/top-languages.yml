@@ -1,4 +1,4 @@
-name: Update Top Languages Bars
+name: Update Top Languages
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
         run: npm install node-fetch@2
 
       - name: Generate Top Languages Bars
-        run: node scripts/top_languages.js
+        run: node scripts/generate_languages.js
 
       - name: Commit and Push README
         run: |
