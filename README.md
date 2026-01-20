@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 Welcome to my profile! This reflects a small part of my journey thus far, showcasing some of my documented work as I explore new projects and build my skillset. <br />
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saniyanangia&hide_progress=true&langs_count=20)
+-->
